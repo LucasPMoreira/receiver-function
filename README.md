@@ -43,7 +43,9 @@ Genetic Algorithm variables:
 
 ## Author
 
-Lucas Moreira [Research Gate](https://www.researchgate.net/profile/Lucas_Moreira6)
-              [email](mailto:lucas.paes.moreira@gmail.com)
+Lucas Moreira
+
+[Research Gate](https://www.researchgate.net/profile/Lucas_Moreira6)
+[email](mailto:lucas.paes.moreira@gmail.com)
 
 Citation: [Moreira, L.P. 2019](https://doi.org/10.1109/LGRS.2019.2947136)
