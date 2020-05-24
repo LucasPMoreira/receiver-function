@@ -41,8 +41,9 @@ Genetic Algorithm variables:
 * [Matlab R2014a](https://www.mathworks.com/products/matlab.html)
 * [SACLAB](http://home.chpc.utah.edu/~thorne/software.html) - SAC file read and write routines
 
-## Authors
+## Author
 
-[Lucas Moreira](https://www.researchgate.net/profile/Lucas_Moreira6)  lucas[dot]paes[dot]moreira[at]gmail[dot]com
+Lucas Moreira [Research Gate](https://www.researchgate.net/profile/Lucas_Moreira6)
+              [email](mailto:lucas.paes.moreira@gmail.com)
 
 Citation: [Moreira, L.P. 2019](https://doi.org/10.1109/LGRS.2019.2947136)
