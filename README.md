@@ -26,6 +26,7 @@ To run the code to calculate the RF of one seismic event, open the main.m and ch
 Some configuration variables are important, and should be set for each application.
 
 Receiver Function variables:
+- g_window => gaussian window filter width
 - maxTime => time length in seconds of resulted RF trace
 - maxAmp => maximum amplitude of RF peaks
 
