@@ -10,15 +10,16 @@ resultPath = '/result/path/comes/here';
 radFile = 'radial.file.sac';   % radial file
 verFile = 'vertical.file.sac'; % vertical file
 
+g_window = 2.5
+maxTime = 30;           % maximum time allowed for all RF bumps
+maxAmp = 1.0;           % maximum amplitude allowed for all RF bumps
+
 radSac = rsac(fullfile(dataPath,radFile));	% SACLAB function
 verSac = rsac(fullfile(dataPath,verFile));	% SACLAB function
 delta = lh(verSac,'DELTA');			% SACLAB function
-w = gausswin(round(1./delta),2.5);
+w = gausswin(round(1./delta),g_window);
 rad = filter(w,1,radSac(:,2));
 ver = filter(w,1,verSac(:,2));
-
-maxTime = 30;           % maximum time allowed for all RF bumps
-maxAmp = 1.0;           % maximum amplitude allowed for all RF bumps
 
 % convergence criteria
 maxGen = 1000;           % maximum number of generations
