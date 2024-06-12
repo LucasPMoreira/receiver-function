@@ -46,6 +46,4 @@ Genetic Algorithm variables:
 
 [Dr. Lucas Moreira](mailto:lucas.paes.moreira@gmail.com)
 
-One minor change.
-
 Citation: [Moreira, L.P. 2019](https://doi.org/10.1109/LGRS.2019.2947136)
